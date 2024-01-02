@@ -1,5 +1,4 @@
 import { forwardRef, useState } from "react";
-import Magnetic from "../magnetic";
 import styles from "./style.module.css";
 import { AnimatePresence } from "framer-motion";
 import Nav from "./components/Nav";
