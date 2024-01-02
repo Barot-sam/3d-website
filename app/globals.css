@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cursor {
+  @apply fixed w-[25px] h-[25px] pointer-events-none rounded-[50%] z-10 backdrop-invert;
+}

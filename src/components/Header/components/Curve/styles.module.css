@@ -1,0 +1,3 @@
+.svgCurve {
+  @apply absolute left-[-99px] w-[100px] h-full fill-[rgb(41,41,41)] stroke-none top-0;
+}

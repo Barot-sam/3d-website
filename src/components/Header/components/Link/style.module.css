@@ -1,0 +1,6 @@
+.link {
+  @apply relative flex items-center;
+}
+.link .indicator {
+  @apply w-2.5 h-2.5 bg-[white] absolute left-[-30px] rounded-[50%];
+}
