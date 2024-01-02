@@ -1,5 +1,5 @@
 .menu {
-  @apply h-screen bg-[rgb(41,41,41)] fixed text-[white] right-0 top-0;
+  @apply h-screen bg-[rgb(41,41,41)] fixed text-[white] right-0 top-0 z-20;
 }
 .menu .body {
   @apply box-border h-full flex flex-col justify-between p-[100px];
